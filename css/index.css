@@ -1,0 +1,33 @@
+.head {
+    background-image: url("../src/baner_v1.png");
+}
+
+.head span {
+    font-size: xx-large;
+    color: azure;
+}
+
+body {
+    background-color: #00091f;
+    
+}
+
+header {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.content {
+    margin: 15%;
+    margin-top: 0%;
+    padding-top: 50px;
+    text-align: center;
+}
+
+table {
+    margin-top: 50px;
+}
+ 
+#tr {
+    margin: 5px;
+}
