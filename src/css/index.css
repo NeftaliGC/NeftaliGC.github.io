@@ -1,0 +1,92 @@
+.head {
+    background-image: url("../img/baner_v1.png");
+}
+
+.head span {
+    font-size: xx-large;
+    color: azure;
+}
+
+body {
+    background-color: #00091f;
+    
+}
+
+.h-f {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 0 1rem;
+    width: 100%;
+}
+
+.presentation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 1rem;
+    width: 100%;
+}
+
+
+#tr {
+    margin: 5px;
+}
+
+#link {
+    text-decoration: none;
+    color: #00091f;
+}
+
+.tab {
+    margin: 5px 0px 5px 0px;
+}
+
+
+article.row.justify-content-center {
+    padding: 15px;
+}
+
+
+div.card.text-white.bg-dark.mb-3 {
+    max-width: 27rem;
+    align-content: center;
+    color: aliceblue;
+    border: 3px solid rgb(197, 197, 197);
+}
+
+div.card-header {
+    border-bottom: 1px solid rgba(219, 219, 219, 0.31);
+}
+
+div.card-body {
+    color: black;
+    background-color: rgb(216, 216, 216);
+}
+
+.social-link {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.tar {
+    padding: 1rem;
+}
+
+.text {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    min-width: 200%;
+}
